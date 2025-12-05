@@ -1,4 +1,4 @@
-# AditiKavia--Soldier-Rescue-Mission-A-Pathfinding-JavaFX-
+# Soldier Rescue Mission A Pathfinding JavaFX
 📌 Overview
 This project implements an Expert System for tactical path planning using the A* algorithm within a 20×20 grid-based environment. It simulates a Combat Search and Rescue (CASR) mission where soldiers navigate from a base camp (Source) to a kidnapped commando (Target) while avoiding randomly generated Danger Zones.
 
